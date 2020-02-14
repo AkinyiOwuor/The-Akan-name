@@ -14,7 +14,22 @@
             <h2>You can fill the form below to know your Akan name</h2>
             <div class="form">
                 <form>
-                    
+                    <p id="output">Output</p>
+                    <label>Day</label>
+                    <input type="number" id="day" placeholder="day in number" class="form-control" required>
+                    <label>Month</label>
+                    <input type="number" id="month" placeholder="month in number" class="form-control" required>
+                    <label>Year</label>
+                    <input type="number" id="year" placeholder="year in number" class="form-control" required>
+                    <label>Enter your name</label>
+                    <input type="text" id="name" placeholder="enter name" class="form-control" required>
+                    <label>Gender</label>
+                    <div class="radio">
+                        <input type="radio" name="gender" id="male"><span class="gender">Male</span>
+                        <input type="radio" name="gender" id="female"><span class="gender">Female</span>
+                    </div>
+                    <a href="#" class="btn btn-primary" id="submit">Submit</a>
+                    <button type="reset" class="btn btn-outline-info btn-lg">Reset</button>
                 </form>
             </div>
     </div>
