@@ -22,3 +22,7 @@ p{
     background-color:beige;
     color:skyblue;
 }
+.footer p{
+    font-size: xx-large;
+    border-radius: 20px;
+}
