@@ -26,3 +26,9 @@ p{
     font-size: xx-large;
     border-radius: 20px;
 }
+body{
+    background-image: url(https://bit.ly/2SsS6l7);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
