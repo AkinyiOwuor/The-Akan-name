@@ -2,7 +2,7 @@
 ##Description
 This is an application that will enable someone to know their Akan name depending on the day someone is born.You will only be able to know your Akan name after filling out the form correctly.
 ##Author:RACHEL AKINYI OWUOR
-<!-- ##Live Link
+##Live Link
 
 
 ##Technologies Used
@@ -10,7 +10,7 @@ I used:
 HTML
 CSS
 Javascript
-##Support and contact details
+<!-- ##Support and contact details
 If you have any issues, or have questions, ideas or concerns you can contact me via email-address-owuorrachel@gmail.com
 
 ##License
