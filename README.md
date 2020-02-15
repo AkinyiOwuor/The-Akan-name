@@ -1,8 +1,8 @@
 ###Application Name:The-Akan-names
 ##Description
 This is an application that will enable someone to know their Akan name depending on the day someone is born.You will only be able to know your Akan name after filling out the form correctly.
-<!-- ##Author:RACHEL AKINYI OWUOR
-##Live Link
+##Author:RACHEL AKINYI OWUOR
+<!-- ##Live Link
 
 
 ##Technologies Used
