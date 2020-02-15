@@ -19,8 +19,8 @@ submit.addEventListener("click", function() {
     } else if (yy.toString().length !== 4) {
         alert("invalid year");
     } else if (male.checked) {
-//         output.innerHTML = "Hello!" + name + ". Your Akan Name Is " + maleAkanNames[daysOfWeek];
-//     } else {
-//         output.innerHTML = "Hello!" + name + ". Your Akan Name Is " + femaleAkanNames[daysOfWeek];
-//     }
-// })
+        output.innerHTML = "Hello!" + name + ". Your Akan Name Is " + maleAkanNames[daysOfWeek];
+    } else {
+        output.innerHTML = "Hello!" + name + ". Your Akan Name Is " + femaleAkanNames[daysOfWeek];
+    }
+})
