@@ -1,0 +1,34 @@
+.container-fluid img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+h1{
+    font-size: 80px;
+    border-radius: 50px;
+}
+p{
+    font-size: x-large;
+}
+.form{
+    font-size: x-large;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+    background-color:beige;
+    color:skyblue;
+}
+.footer p{
+    font-size: xx-large;
+    border-radius: 20px;
+}
+body{
+    background-image: url(https://bit.ly/2SsS6l7);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
